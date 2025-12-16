@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **cvc953/cvc953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,46 +16,66 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Cristian.</h2>
+<h2 align="left">Hey there!👋 I'm Cristian.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+###
 
-- 🔭 &nbsp; I’m currently working on Android Apps
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying System Engineering.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+<h3 align="left">👩‍💻  About Me</h3>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+###
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-  ![Neovim](https://img.shields.io/badge/-NeoVim-333333?style=flat&logo=neovim)
+<p align="left">- 🔭 I’m currently working on Android Apps<br>- 🤔 Exploring new technologies and developing software solutions and quick hacks.<br>- 🎓 Studying System Engineering.<br>- 🌱 Learning more about Backend Architectures and Frontend Developement.</p>
 
-<br/>
+###
 
-<a href="https://github.com/cvc953">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cvc953&theme=holi&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvc953&theme=holi&layout=compact" />
-</a>
+<h3 align="left">🛠 Language and tools</h3>
 
-<br/>
+###
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+</div>
 
-<p align="center">
+###
 
-<a href="mailto:cvcorporation05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cvcorporation05@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<h3 align="left">🔥   My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cvc953&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cvc953&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:cvcorporation05@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <a/>
+  <a href="https://www.linkedin.com/in/cristian-villalobos-cuadrado-0a4672276">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <a/>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cvc953/cvc953/output/snake.svg" alt="Snake animation" />
+
+###
